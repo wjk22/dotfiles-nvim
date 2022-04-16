@@ -9,7 +9,7 @@ if you do not understand something remove it until you know how to use it.
 Why you should use nvim? ..try to do <Esc>d3w in other editors to delete 3 words  or df to 
 delete a function
 
-Linux
+## Linux
 
 0. Do the basic vim tutorial at https://www.openvim.com/
 
@@ -36,12 +36,11 @@ Linux
 
 6. setup your color cheme, I found a nice one at dogcraftz, copy files to ~/.config/nvim/colors and
 edit init.vim, my example here is <br>
-``` " Use NeoSolarized
-  let g:neosolarized_termtrans=1
+``` let g:neosolarized_termtrans=1
   runtime ./colors/NeoSolarized.vim
-  olorscheme NeoSolarized`
-```
-Windows
+  colorscheme NeoSolarized```
+
+## Windows
 
 1. Install Neovim with scoop
 ```scoop intall Neovim```
