@@ -35,10 +35,10 @@ Linux
 `runtime (filename)` # like runtime ./plug.vim
 
 6. setup your color cheme, I found a nice one at dogcraftz, copy files to ~/.config/nvim/colors and
-edit init.vim, my example here is 
-` " Use NeoSolarized
-  let g:neosolarized_termtrans=1
-  runtime ./colors/NeoSolarized.vim
+edit init.vim, my example here is <br>
+` " Use NeoSolarized<br>
+  let g:neosolarized_termtrans=1<br>
+  runtime ./colors/NeoSolarized.vim<br>
   colorscheme NeoSolarized`
 
 Windows
