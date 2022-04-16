@@ -36,12 +36,16 @@ delete a function
 
 6. setup your color cheme, I found a nice one at dogcraftz, copy files to ~/.config/nvim/colors and
 edit init.vim, my example here is <br>
-``` let g:neosolarized_termtrans=1
-  runtime ./colors/NeoSolarized.vim
-  colorscheme NeoSolarized```
+``` 
+`  let g:neosolarized_termtrans=1
+`  runtime ./colors/NeoSolarized.vim
+`  colorscheme NeoSolarized
+```
 
 ## Windows
 
 1. Install Neovim with scoop
-```scoop intall Neovim```
+```
+scoop intall Neovim
+```
 
