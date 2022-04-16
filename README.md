@@ -35,7 +35,7 @@ delete a function
 `runtime (filename)` # like runtime ./plug.vim
 
 6. setup your color cheme, I found a nice one at dogcraftz, copy files to ~/.config/nvim/colors and
-edit init.vim, my example here is <br>
+edit init.vim, my example here is 
 ```vim 
   let g:neosolarized_termtrans=1
   runtime ./colors/NeoSolarized.vim
@@ -45,7 +45,5 @@ edit init.vim, my example here is <br>
 ## Windows
 
 1. Install Neovim with scoop
-```
-scoop intall Neovim
-```
+` scoop intall Neovim
 
