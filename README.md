@@ -44,6 +44,9 @@ edit init.vim, my example here is
 
 ## Windows
 
-1. Install Neovim with scoop
-` scoop intall Neovim
+1. Install Neovim with scoop and other software
+` scoop intall Neovim gcc git
+
+2. Copy my files into the correct directory.
+
 
