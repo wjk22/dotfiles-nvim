@@ -44,9 +44,14 @@ edit init.vim, my example here is
 
 ## Windows
 
+0. Install Python with choco
+` choco install python3
+
 1. Install Neovim with scoop and other software
 ` scoop intall Neovim gcc git
 
 2. Copy my files into the correct directory.
 
+3. Run python -m pip install --user --upgrade pynvim and python -m pip install --user --upgrade neovim.
 
+4. start nvim and do :PlugInstall  
